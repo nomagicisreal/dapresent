@@ -1,7 +1,7 @@
 name: dapresent
 description: a flutter library for presenting data
-version: 0.0.1
-#repository: https://github.com/my_org/my_repo
+version: 0.0.2
+repository: https://github.com/nomagicisreal/dapresent
 
 environment:
   sdk: ^3.2.3
