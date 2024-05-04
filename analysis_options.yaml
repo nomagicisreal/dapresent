@@ -13,11 +13,12 @@
 
 include: package:lints/recommended.yaml
 
-# Uncomment the following section to specify additional rules.
+linter:
+  rules:
+    use_string_in_part_of_directives: false
+    prefer_const_declarations: true
+    avoid_unused_constructor_parameters: true
 
-# linter:
-#   rules:
-#     - camel_case_types
 
 # analyzer:
 #   exclude:

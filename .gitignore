@@ -2,3 +2,11 @@
 # Created by `dart pub`
 .dart_tool/
 .idea/
+
+build/
+android/
+ios/
+linux/
+macos/
+web/
+windows/
