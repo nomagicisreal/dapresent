@@ -1,4 +1,4 @@
-import 'package:dapresent/src_material/material.dart';
+import 'package:dapresent/dapresent.dart';
 import 'package:flutter/material.dart';
 
 void main() {

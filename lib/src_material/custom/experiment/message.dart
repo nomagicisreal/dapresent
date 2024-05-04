@@ -7,7 +7,7 @@
 /// [ChatImage]
 ///
 ///
-part of dapresent_material;
+part of dapresent_custom;
 
 enum MessageType { text, image, sticker }
 

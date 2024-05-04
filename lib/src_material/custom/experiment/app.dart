@@ -9,7 +9,7 @@
 /// [CustomMaterialApp]
 ///
 ///
-part of dapresent_material;
+part of dapresent_custom;
 
 ///
 /// [appMaterial]
