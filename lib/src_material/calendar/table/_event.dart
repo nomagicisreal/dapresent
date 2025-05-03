@@ -1,14 +1,13 @@
-///
-///
-/// this file contains:
+part of '../calendar.dart';
+
 ///
 /// [CalendarEvent]
 /// [CalenderRepository]
 ///
+
 ///
-part of dapresent_calendar;
-
-
+///
+///
 class CalendarEvent {
   final String id;
   String name;
@@ -17,12 +16,12 @@ class CalendarEvent {
   DateTime? end;
 
   CalendarEvent(
-      this.id,
-      this.start,
-      this.end, {
-        this.description = '',
-        required this.name,
-      });
+    this.id,
+    this.start,
+    this.end, {
+    this.description = '',
+    required this.name,
+  });
 
   CalendarEvent.init()
       : id = DateTime.now().toString(),

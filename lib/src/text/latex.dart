@@ -1,7 +1,6 @@
-library dapresent_latex;
+part of '../main.dart';
+// https://pub.dev/packages/flutter_tex
 
-
-// // flutter pub add flutter_tex
 // extension VLaTexFontStyle on TeXViewFontStyle {
 //   static TeXViewFontStyle size_10 = TeXViewFontStyle(
 //     fontSize: 10,

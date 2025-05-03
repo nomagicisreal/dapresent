@@ -1,4 +1,5 @@
-library dapresent_font;
+part of '../main.dart';
+// https://pub.dev/packages/google_fonts
 
 // // flutter pub add google_fonts
 // extension VGoogleFontsMono on GoogleFonts {

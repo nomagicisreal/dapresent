@@ -1,6 +1,3 @@
-library dapresent_chart;
+// https://pub.dev/packages/fl_chart
 
 // import 'fl_chart/fl_chart';
-
-part 'univariate/univariate.dart';
-part 'bivariate/bivariate.dart';

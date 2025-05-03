@@ -1,4 +1,3 @@
-library dapresent_cupertino;
 
 import 'package:flutter/cupertino.dart';
 

@@ -1,11 +1,8 @@
-part of dapresent_custom;
+part of 'rendering.dart';
 
 ///
-/// this file contains:
 /// [RenderSizing], [RenderPainting]
 /// [BagList], [BagMap]
-///
-///
 ///
 ///
 ///

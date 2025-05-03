@@ -1,4 +1,4 @@
-part of dapresent_rendering;
+part of '../rendering.dart';
 
 ///
 /// this file contains,
@@ -213,9 +213,7 @@ class Graph extends StatelessWidget {
             ),
           ),
         );
-      default:
-        throw UnimplementedError();
-    }
+      }
   }
 }
 
