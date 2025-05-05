@@ -1,6 +1,6 @@
 name: dapresent
 description: a flutter library for presenting data
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/nomagicisreal/dapresent
 
 environment:
@@ -14,6 +14,7 @@ dependencies:
   damath: ^0.0.21
   datter: ^0.0.18
   dastore: ^0.0.18
+  nomisal_ui: ^0.0.2
 
 dev_dependencies:
   flutter_test:
